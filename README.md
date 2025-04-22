@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <li>League of Legends</li>
 </ul>
 </li>
-<li>Esports Enthusiast (Starcraft, League of Legends/li>
+<li>Esports Enthusiast (Starcraft, League of Legends</li>
 <li>Ski and Snowboarding Enjoyer</li>
 <li>Dog Lover</li>
 <li>Racing Fan
