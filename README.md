@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Personal
 
 <ul dir="auto">
-<li>Lifeloing Gamer
+<li>Lifelong Gamer
 <ul dir="auto">
 --Current Titles --
 <li>Final Fantasy XIV</li>
